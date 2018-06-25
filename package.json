@@ -1,8 +1,8 @@
 {
-    "name": "chilly",
+    "name": "Chilly",
     "displayName": "Chilly Dark Theme",
-    "description": "A 'chilly' Visual Studio Code dark theme featuring blue fonts and dark backgrounds.",
-    "version": "0.0.1",
+    "description": "A 'Chilly' Visual Studio Code dark theme featuring blue fonts and dark backgrounds.",
+    "version": "0.0.2",
     "author": "ZachTRice",
     "publisher": "ZachTRice",
     "homepage": "https://github.comzachtrice/chilly-vscode-theme#readme",
