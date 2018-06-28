@@ -12,7 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.0]
 - Update main theme colors to dark blue
 
-##  [0.1.1]
+## [0.1.1]
 - Update package.json name and README
 
 ## [0.1.2]
@@ -20,3 +20,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.3]
 - Update CHANGELOG
+
+## [0.1.4]
+- Added screenshot.png to README
