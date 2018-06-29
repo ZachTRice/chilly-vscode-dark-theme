@@ -23,3 +23,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.4]
 - Added screenshot.png to README
+
+## [0.1.5]
+- Added package.json icon
